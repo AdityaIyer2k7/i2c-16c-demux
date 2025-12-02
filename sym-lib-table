@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CD74HC4067M96")(type "KiCad")(uri "${KIPRJMOD}/symbols.pretty/CD74HC4067M96.kicad_sym")(options "")(descr ""))
+  (lib (name "TCA9554DWT")(type "KiCad")(uri "${KIPRJMOD}/symbols.pretty/TCA9554DWT.kicad_sym")(options "")(descr ""))
+  (lib (name "CSD13380F3")(type "KiCad")(uri "${KIPRJMOD}/symbols.pretty/CSD13380F3.kicad_sym")(options "")(descr ""))
+)
